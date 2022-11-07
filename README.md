@@ -8,4 +8,6 @@ https://docs.google.com/document/d/1DTqzO9KVRw4RPOAqGlnMXf-qALvdtCxkffFYqyDBB_E/
 
 https://docs.google.com/document/d/1AxOpD00JIx_LeZLsS18VKcPKBhk4bF67AcbrI83iIl4/edit?usp=drivesdk - синтаксис для SQL
 
+https://stepik.org/cert/1754674 - Сертификат СТЕПИК
+
 
